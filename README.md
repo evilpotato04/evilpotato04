@@ -1,4 +1,4 @@
-Hello hello! I’m Samunta =^.^=
+Hello hello! I’m Samy =^.^=
 Nice to meet u!
 
 - I'm a beginner at programming and I've started my studies with C#/.NET and Python.
